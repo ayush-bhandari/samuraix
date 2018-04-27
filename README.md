@@ -1,0 +1,2 @@
+# samuraix
+test wordpress theme
